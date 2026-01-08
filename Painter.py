@@ -2,7 +2,6 @@ import os
 import math
 import random
 import json
-import colorsys
 
 import tkinter as tk
 from tkinter import colorchooser
@@ -12,7 +11,6 @@ from tkinter import filedialog
 from PIL import Image
 from PIL import ImageTk
 from PIL import ImageOps
-from PIL import ImageFilter
 
 def Save():
 
