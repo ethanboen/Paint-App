@@ -1,0 +1,11 @@
+{
+
+    "texture": "Texture.png",
+    "mask": "Mask.png",
+    "has-variants": true,
+    "variant-size": {
+        "x": 64, 
+        "y": 64
+    }
+
+}
